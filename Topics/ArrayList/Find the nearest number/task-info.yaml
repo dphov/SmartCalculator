@@ -1,0 +1,13 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3794#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #4 of 10. Keep in mind that distance 0 appears when N equals some elements of the array
+  time: "Wed, 03 Jul 2024 14:58:47 UTC"
+record: -1
+submission_language: java17

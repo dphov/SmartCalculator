@@ -1,0 +1,14 @@
+content:
+  - Theory
+  - Student class with getters and constructor
+  - Fixing access issue in the 'MyCars' class
+  - Creating a class with private variable and public method
+  - Types of access modifiers
+  - Admissible modifiers
+  - Suitable modifiers
+  - Which fields will be accessible
+  - Existing keywords to control access
+  - Select correct lines
+  - Select correct lines (1)
+  - Accessibility outside the package
+  - Modifiers and code objects

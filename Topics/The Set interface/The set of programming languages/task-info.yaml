@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "Java, Scala, Kotlin, Kotlin, JAVA, Python"
+  - text: "Java, Scala, Kotlin, Python"
+  - text: "Java, Scala, Kotlin, Python, JAVA"
+  - text: "Java, Scala, Python, JAVA"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2098#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 06 Jul 2024 16:59:53 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: false

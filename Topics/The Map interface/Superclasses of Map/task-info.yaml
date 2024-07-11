@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: None
+  - text: Array
+  - text: AbstractMap
+  - text: Collection
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36537#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 09 Jul 2024 16:40:06 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

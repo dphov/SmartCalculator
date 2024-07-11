@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Do not write an access modifier
+  - text: Use the keyword <b>package</b>
+  - text: Use the keyword <b>private</b>
+  - text: Use the keyword <b>final</b>
+  - text: Use the keyword <b>protected</b>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3423#comment
+status: Solved
+record: -1
+local_check: false

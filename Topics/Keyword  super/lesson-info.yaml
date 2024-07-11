@@ -1,0 +1,10 @@
+custom_name: Keyword "super"
+content:
+  - Theory
+  - Fix the non-compiled hierarchy
+  - When the keyword is used
+  - Class hierarchy
+  - Inheritance and constructor usage in pet namespace
+  - Inheriting shapes with constructors
+  - Why we use the super keyword
+  - When the keyword cannot be used

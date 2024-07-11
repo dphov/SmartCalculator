@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: compilation error
+  - text: nothing happens
+  - text: the new element will be set
+  - text: it throws <b>UnsupportedOperationException</b>
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8398#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 06 Jul 2024 14:15:52 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

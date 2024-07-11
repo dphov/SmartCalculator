@@ -1,0 +1,29 @@
+<div class="step-text">
+<p>You are given two classes:</p>
+<ul>
+<li><code class="language-java">org.demo.A</code></li>
+<li><code class="language-java">org.demo.B</code></li>
+</ul>
+<pre><code class="language-java">class A {
+    
+    private A() { }
+    
+    void invokeB() { 
+        B objB = new B(); // (1)
+        int b = objB.b;   // (2)
+        int c = objB.c;   // (3)
+    }
+}
+
+class B {
+
+    protected int b;
+    private int c;
+    
+    public void invokeA() {
+        A objA = new A(); // (4)
+    }
+}</code></pre>
+<p> </p>
+<p>Select all correct lines.</p>
+</div>

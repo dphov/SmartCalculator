@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: to invoke methods of the base class
+  - text: to invoke constructors of the base class
+  - text: to prohibit a class from subclassing
+  - text: to access fields of the base class
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2204#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 16 Jun 2024 20:24:16 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
+local_check: false

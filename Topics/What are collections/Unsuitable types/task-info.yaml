@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: primitive types
+  - text: custom types (non-standard classes)
+  - text: strings
+  - text: reference types
+  - text: standard types
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3771#comment
+status: Solved
+record: -1
+local_check: false

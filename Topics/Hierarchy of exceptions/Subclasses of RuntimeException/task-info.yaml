@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "IOException, ArithmeticException"
+  - text: "IOException, NullPointerException"
+  - text: "StackOverFlowError, NullPointerException"
+  - text: "NullPointerException, ArithmeticException"
+  - text: "IOException, Exception"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2808#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 17 Jun 2024 11:27:06 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false

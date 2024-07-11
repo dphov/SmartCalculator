@@ -1,0 +1,31 @@
+<div class="step-text">
+<p>You are given two classes: <code class="language-java">org.demo.A</code> and <code class="language-java">org.demo.example.B</code>.</p>
+<pre><code class="language-java">package org.demo;
+
+public class A {
+
+    private int field1;
+
+    protected int field2;
+    
+    public void methodA() { }
+}
+</code></pre>
+<p>and</p>
+<pre><code class="language-java">package org.demo.example;
+
+import org.demo.A;
+
+public class B {
+
+    private void methodB() {
+        A a = new A(); // (1)
+
+        int f1 = a.field1; // (2)
+        int f2 = a.field2; // (3)
+
+        a.methodA(); // (4)
+    }
+}</code></pre>
+<p>Select all correct lines.</p>
+</div>

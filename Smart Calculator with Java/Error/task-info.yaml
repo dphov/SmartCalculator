@@ -1,0 +1,24 @@
+type: edu
+custom_name: Error!
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Test.java
+    visible: false
+    learner_created: false
+  - name: src/calculator/SmartCalculatorException.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/UnknownCommandException.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/InvalidExpressionException.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5320#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 01 Jul 2024 17:45:04 UTC"
+record: 5

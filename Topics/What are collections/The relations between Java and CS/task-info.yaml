@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Data structures are special kinds of collections.
+  - text: Collections are representations of different data structures.
+  - text: Collections are list-like data structures.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8343#comment
+status: Solved
+record: -1
+local_check: false

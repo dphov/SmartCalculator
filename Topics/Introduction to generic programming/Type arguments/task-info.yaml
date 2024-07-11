@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: int
+  - text: "String[]"
+  - text: String
+  - text: "int[]"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3420#comment
+status: Solved
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 2
+  - 3
+local_check: false

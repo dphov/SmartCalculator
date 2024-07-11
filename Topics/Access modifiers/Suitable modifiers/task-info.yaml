@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: public
+  - text: protected
+  - text: static
+  - text: private
+  - text: no modifier (empty)
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1956#comment
+status: Solved
+record: -1
+local_check: false

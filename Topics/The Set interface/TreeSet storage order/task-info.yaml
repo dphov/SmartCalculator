@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: sorted order of the elements
+  - text: in an order based on the hash code
+  - text: FIFO
+  - text: in the order of adding
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8403#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 06 Jul 2024 15:03:04 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false
