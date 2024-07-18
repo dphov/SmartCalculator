@@ -25,12 +25,8 @@ files:
     visible: true
     learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5321#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #2\n\nThe variable stores not a correct value.\n\n\
-    Please find below the output of your program during this failed test.\nNote that\
-    \ the &#39;&gt;&#39; character indicates the beginning of the input line.\n\n\
-    ---\n\n&gt; n = 5\n&gt; m=2\n&gt; a    =  7\n&gt; c=  a \n&gt; a\n7\n&gt; c\n\
-    7\n&gt; test = 0\n&gt; test\nInvalid expression"
-  time: "Thu, 11 Jul 2024 09:27:05 UTC"
-record: -1
+  message: Congratulations!
+  time: "Thu, 11 Jul 2024 09:42:41 UTC"
+record: 6

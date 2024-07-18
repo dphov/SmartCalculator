@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: It belongs to the <b>java.math</b> package
+  - text: It belongs to the <b>java.util</b> package
+  - text: It is built-in integer type
+  - text: It belongs to the <b>java.big</b> package
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3468#comment
+status: Solved
+record: -1
+local_check: false

@@ -15,3 +15,6 @@ content:
   - The List interface
   - The Set interface
   - The Map interface
+  - Stack
+  - Comparable
+  - BigInteger
